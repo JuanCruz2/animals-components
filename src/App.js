@@ -11,6 +11,12 @@ function App () {
    <div>
     <button onClick={handleClick}>Add Animal</button>
     <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
+    <div>Number of animals: {count}</div>
     </div>
     
   )
